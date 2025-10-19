@@ -47,8 +47,7 @@ cd Minimum-Temperature-Raster
 2. Create and activate virtual environment
 ```
 python -m venv env
-env\Scripts\activate      # Windows
-# env\Scripts\activate (Linux/MacOS)
+env\Scripts\activate      # for Windows | source venv/bin/activate (Linux/MacOS)
 ```
 3. Install dependencies
 ```
