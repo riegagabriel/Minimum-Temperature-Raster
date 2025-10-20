@@ -3,14 +3,13 @@ rasterio==1.4.2
 rioxarray==0.15.1
 shapely==2.1.1
 pyproj==3.7.1
-pandas==1.5.3
+pandas==2.1.4
 numpy==1.26.4
 matplotlib==3.10.6
 streamlit==1.32.0
 fiona==1.9.6
 rtree==1.4.1
 mapclassify==2.10.0
-gdal==3.9.3
 contextily==1.6.2
 notebook==7.4.7
 jupyterlab==4.4.9
