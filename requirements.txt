@@ -1,4 +1,4 @@
-geopandas==1.14.3
+geopandas==0.14.3
 rasterio==1.4.2
 rioxarray==0.15.1
 shapely==2.1.1
