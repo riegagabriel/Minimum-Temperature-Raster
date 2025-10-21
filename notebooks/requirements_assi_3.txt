@@ -1,0 +1,14 @@
+numpy
+streamlit
+matplotlib
+plotly
+pandas
+scipy
+ipykernel
+nbformat
+shapely
+pyproj
+rioxarray
+rasterio
+rasterstats
+geopandas
