@@ -2,8 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from PIL import Image
 import os
+try:
+    from PIL import Image
+except ImportError:
+    Image = None
 
 # ============================================================================
 # CONFIGURACIÓN DE LA PÁGINA
